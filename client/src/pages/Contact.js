@@ -18,7 +18,7 @@ const Contact = () => {
             For any queries, feel free to reach us and make you doubts clear. We are available to you 24×7
           </p>
           <p className="mt-3">
-            <BiMailSend /> : www.help@ecomshopping.com
+            <BiMailSend /> : www.help@quickcart.com
           </p>
           <p className="mt-3">
             <BiPhoneCall /> : +91-9876543210
