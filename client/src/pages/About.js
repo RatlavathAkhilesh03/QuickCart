@@ -3,7 +3,7 @@ import Layout from "./../components/Layout/Layout";
 
 const About = () => {
   return (
-    <Layout title={"About us - EcomShopping"}>
+    <Layout title={"About us - QuickCart"}>
       <div className="row contactus ">
         <div className="col-md-6 ">
           <img
@@ -14,10 +14,10 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-          Welcome to EcomShopping, Where Style Meets Sustainability!!!
+          Welcome to QuickCart, Where Style Meets Sustainability!!!
 
 
-          At EcomShopping, we're driven by our core values of sustainability, transparency, and social responsibility. From sourcing organic materials to supporting fair labour practices, we're dedicated to walking the talk every step of the way. Every stitch in our garments is a testament to our commitment to ethical practices, eco-friendly materials, and timeless style. Our journey began with a simple mission: to revolutionize the fashion industry by offering chic, eco-friendly alternatives without compromising on style or quality.
+          At QuickCart, we're driven by our core values of sustainability, transparency, and social responsibility. From sourcing organic materials to supporting fair labour practices, we're dedicated to walking the talk every step of the way. Every stitch in our garments is a testament to our commitment to ethical practices, eco-friendly materials, and timeless style. Our journey began with a simple mission: to revolutionize the fashion industry by offering chic, eco-friendly alternatives without compromising on style or quality.
           </p>
         </div>
       </div>
